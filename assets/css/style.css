@@ -111,7 +111,7 @@ html{
 }
 #slider{
     margin-top: 46px;
-    background: url('./assets/img/slider/slider1.jpg') center top / cover no-repeat;
+    background-image: url('./assets/img/slider/slider1.jpg') center top / cover no-repeat;
     padding-top: 50%;
     position: relative;
 } 
